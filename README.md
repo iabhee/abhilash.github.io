@@ -1,6 +1,6 @@
-# DevOps enthusiast
+# DevOps enthusiast | Kubernetes, Automation, Cloud Solutions
 
-#### Technical Skills: AWS, Azure, Kubernetes, Docker, Terraform, Prometheus, Grafana
+#### Technical Skills: AWS, Azure, Kubernetes, Docker, Terraform, Prometheus, Grafana, ArgoCD
 
 ## Work Experience 
 **Senior DevOps Engineer @ Playstudios Inc (_September 2021 - November 2024_)**
