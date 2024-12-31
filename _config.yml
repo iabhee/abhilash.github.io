@@ -1,8 +1,7 @@
 title: Abhilash Ramagiri
 logo: /assets/img/headshot.png
-description: "Abhilash Ramagiri's personal portfolio"
-# show_downloads: true
+description: >
+  Experienced DevOps professional specializing in optimizing deployments, 
+  empowering teams with efficient tools, and automating infrastructure for 
+  high availability.
 theme: jekyll-theme-minimal
-social:
-  github: https://github.com/iabhee
-  linkedin: https://linkedin.com/in/ramagiriabhilash
