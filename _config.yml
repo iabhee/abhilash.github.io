@@ -3,3 +3,6 @@ logo: /assets/img/headshot.png
 description: "Abhilash Ramagiri's personal portfolio"
 # show_downloads: true
 theme: jekyll-theme-minimal
+social:
+  links:
+    - "https://www.linkedin.com/in/ramagiriabhilash"
