@@ -4,5 +4,5 @@ description: "Abhilash Ramagiri's personal portfolio"
 # show_downloads: true
 theme: jekyll-theme-minimal
 social:
-  links:
-    - "https://www.linkedin.com/in/ramagiriabhilash"
+  github: https://github.com/iabhee
+  linkedin: https://linkedin.com/in/ramagiriabhilash
